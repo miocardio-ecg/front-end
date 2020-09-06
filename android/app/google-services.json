@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100496575902",
+    "firebase_url": "https://gestor-ecg.firebaseio.com",
+    "project_id": "gestor-ecg",
+    "storage_bucket": "gestor-ecg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100496575902:android:a7573f762f52232afeda8f",
+        "android_client_info": {
+          "package_name": "ventas.ingsold.miocardio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100496575902-ai4l1062jj3tf7nsipgb5pq0ia16ocei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrpBZXDlnfgMxj8prW6OPmUo0EUZHIaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100496575902-ai4l1062jj3tf7nsipgb5pq0ia16ocei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
