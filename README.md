@@ -1,6 +1,6 @@
 # miocardio_app
 
-A new Flutter application.
+Esta aplicación te permite visualizar el análisis que realiza un servidor en Phytonde la señal ECG de un corazon sano y uno con un infarto al Miocardio
 
 ## Getting Started
 
